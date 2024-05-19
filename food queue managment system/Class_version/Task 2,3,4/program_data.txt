@@ -1,0 +1,3 @@
+Remaining burger stock is: 50
+Queue 2 Customer 1: aaaaaaa aaaaaaaa
+Queue 3 Customer 1: zzzzzzzzzzzzzzz z
